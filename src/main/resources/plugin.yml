@@ -1,0 +1,8 @@
+name: ItemCoolDown
+version: '1.0-SNAPSHOT'
+main: me.ItxItay.itemCoolDown.ItemCoolDown
+api-version: '1.21'
+commands:
+  reloaditemcooldows:
+    permission: itemcooldowns.reload
+  cooldowns-credit:
